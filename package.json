@@ -18,8 +18,8 @@
     "perfectionist": "^2.4.0",
     "postcss-discard-comments": "^4.0.2",
     "sass-loader": "^8.0.2",
-    "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
     "webpack-fix-style-only-entries": "^0.4.0"
   }
 }
