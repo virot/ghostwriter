@@ -89,6 +89,7 @@ params:
   email: xxx@example.com
   opengraph: true
   shareTwitter: true
+  rss: true
   shareFacebook: true
   shareGooglePlus: true
   shareLinkedIn: false
